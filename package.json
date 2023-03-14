@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon ./src/index.ts",
     "start": "node ./build/index.js",
-    "build": "tsc"
+    "tsc": "tsc"
   },
   "keywords": [],
   "author": "Daniel Velasco <danilovelga4747@gmail.com>",
